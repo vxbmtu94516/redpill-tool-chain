@@ -118,8 +118,8 @@
       "redpill_lkm_make_target": "dev-v6",
       "downloads": {
         "kernel": {
-          "url": "https://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/25426branch/bromolow-source/linux-3.10.x.txz/download",
-          "sha256": "18aecead760526d652a731121d5b8eae5d6e45087efede0da057413af0b489ed"
+          "url": "https://global.synologydownload.com/download/ToolChain/Synology%20NAS%20GPL%20Source/6.2-25556/bromolow/linux-3.10.x.txz",
+          "sha256": "SHA256: 4e4e7a9b9da22fa7c9f9e28665a8470e4207ae57c4c79cb9afb0e112a84701f5"
         },
         "toolkit_dev": {
           "url": "https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.bromolow-6.2.dev.txz/download",
@@ -145,8 +145,8 @@
       "redpill_lkm_make_target": "dev-v7",
       "downloads": {
         "kernel": {
-          "url": "https://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/25426branch/bromolow-source/linux-3.10.x.txz/download",
-          "sha256": "18aecead760526d652a731121d5b8eae5d6e45087efede0da057413af0b489ed"
+          "url": "https://global.synologydownload.com/download/ToolChain/Synology%20NAS%20GPL%20Source/6.2-25556/bromolow/linux-3.10.x.txz",
+          "sha256": "SHA256: 4e4e7a9b9da22fa7c9f9e28665a8470e4207ae57c4c79cb9afb0e112a84701f5"
         },
         "toolkit_dev": {
           "url": "https://sourceforge.net/projects/dsgpl/files/toolkit/DSM7.0/ds.bromolow-7.0.dev.txz/download",
@@ -172,8 +172,8 @@
       "redpill_lkm_make_target": "dev-v7",
       "downloads": {
         "kernel": {
-          "url": "https://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/25426branch/bromolow-source/linux-3.10.x.txz/download",
-          "sha256": "18aecead760526d652a731121d5b8eae5d6e45087efede0da057413af0b489ed"
+          "url": "https://global.synologydownload.com/download/ToolChain/Synology%20NAS%20GPL%20Source/6.2-25556/bromolow/linux-3.10.x.txz",
+          "sha256": "SHA256: 4e4e7a9b9da22fa7c9f9e28665a8470e4207ae57c4c79cb9afb0e112a84701f5"
         },
         "toolkit_dev": {
           "url": "https://sourceforge.net/projects/dsgpl/files/toolkit/DSM7.0/ds.bromolow-7.0.dev.txz/download",
